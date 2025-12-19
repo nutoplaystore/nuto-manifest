@@ -1,0 +1,22 @@
+{
+  "name": "NUTO",
+  "short_name": "NUTO",
+  "description": "Mieux manger, sans te prendre la tête.\n\nNUTO décrypte la qualité nutritionnelle des produits en un scan.",
+  "start_url": "https://clario-8e47979d.base44.app/",
+  "scope": "https://clario-8e47979d.base44.app/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/render/image/public/base44-prod/public/693ac140f333bcd48e47979d/aeefc2cf9_android-launchericon-512-512.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/render/image/public/base44-prod/public/693ac140f333bcd48e47979d/aeefc2cf9_android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
